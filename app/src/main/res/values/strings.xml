@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">WeatherInfoApplication</string>
+    <string name="action_settings">Settings</string>
+    <string name="currentTemperature">Current Temperature:</string>
+    <string name="degrees">degrees</string>
+    <string name="percent">percent</string>
+    <string name="typeOfWeather">Type of Weather:</string>
+    <string name="minTemperature">Minimum Temperature:</string>
+    <string name="maxTemperature">Maximum Temperature:</string>
+    <string name="humidityTitle">Humidity:</string>
+    <string name="sunriseTime">Sunrise Time:</string>
+    <string name="sunsetTime">Sunset Time:</string>
+    <string name="errorMessage">Error:</string>
+    <string name="editCancelled">Edit cancelled</string>
+    <string name="cancelButton">Cancel</string>
+    <string name="okButton">Ok</string>
+    <string name="enterCityHere">Enter city here</string>
+    <string name="city_title">City title</string>
+    <string name="saveButton">Save</string>
+    <string name="removeButton">Remove</string>
+    <string name="deleteButton">Delete</string>
+    <string name="title_activity_dumbdumb">Dumbdumb</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="pleaseEnterCity">Please enter a city</string>
+    <string name="ait_weather">AIT Weather</string>
+    <string name="add_city">Add City</string>
+    <string name="about">About</string>
+    <string name="madeByAIT">Made by AIT</string>
+    <string name="weather_information">Weather Information</string>
+    <string name="cityLocation">City Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="fullNameError">Please enter the full name of the city</string>
+    <string name="lettersError">Please only enter letters</string>
+</resources>
